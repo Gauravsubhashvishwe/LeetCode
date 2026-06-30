@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -135,11 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
