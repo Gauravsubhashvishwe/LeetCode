@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0455-assign-cookies](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0455-assign-cookies) |
@@ -137,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0860-lemonade-change) |
