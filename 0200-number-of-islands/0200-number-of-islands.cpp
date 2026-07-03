@@ -1,10 +1,9 @@
 class Solution {
     vector<int> it = {-1, 0, 0, 1};
     vector<int> jt = {0, -1, 1, 0};
+    int n,m;
 
     void helper(int i, int j, vector<vector<char>> &grid, vector<vector<bool>> &visit){
-        int n = grid.size();
-        int m = grid[0].size();
 
         visit[i][j] = true;
         for(int k = 0; k < 4; k++){
@@ -20,9 +19,9 @@ class Solution {
 
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int n = grid.size();
+        n = grid.size();
         if(n == 0)return 0;
-        int m = grid[0].size();
+        m = grid[0].size();
 
         int result = 0;
         vector<vector<bool>> visit(n, vector<bool>(m, false));
