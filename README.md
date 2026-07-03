@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -205,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
