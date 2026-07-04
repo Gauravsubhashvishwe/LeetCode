@@ -3,6 +3,7 @@ class Solution {
     int m;
     int helper(int i, int j, vector<vector<int>> &tri, vector<vector<int>> &dp){
         if(i >= m)return 0;
+        if(i == m - 1)return tri[i][j];
         if(j > i)return inf;
         if(dp[i][j] != inf)return dp[i][j];
         dp[i][j] = min(helper(i + 1, j, tri, dp), helper(i + 1, j + 1, tri, dp)) + tri[i][j];
