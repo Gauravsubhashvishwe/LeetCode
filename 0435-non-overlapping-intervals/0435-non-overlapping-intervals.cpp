@@ -1,31 +1,20 @@
 class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
-        // Sort intervals based on their end time (greedy strategy)
-        sort(intervals.begin(), intervals.end(), [](auto& a, auto& b) {
+        int n = intervals.size();
+        if(n == 0)return 0;
+        sort(intervals.begin(), intervals.end(), [](vector<int> &a, vector<int> &b){
             return a[1] < b[1];
         });
 
-        // Count of intervals to remove
-        int count = 0;
-
-        // Store end time of the last non-overlapping interval
-        int prevEnd = intervals[0][1];
-
-        // Iterate through intervals starting from the second
-        for (int i = 1; i < intervals.size(); i++) {
-
-            // If current interval starts before the last accepted interval ends
-            if (intervals[i][0] < prevEnd) {
-                // Overlapping interval, increase removal count
-                count++;
-            } else {
-                // No overlap, update the end of last accepted interval
-                prevEnd = intervals[i][1];
+        int prev = 0;
+        int cnt = 1;
+        for(int i = 0; i < n; i++){
+            if(intervals[i][0] >= intervals[prev][1]){
+                prev = i;
+                cnt++;
             }
         }
-
-        // Return minimum intervals to remove
-        return count;
+        return n - cnt;
     }
 };
