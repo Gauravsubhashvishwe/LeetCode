@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0860-lemonade-change) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
