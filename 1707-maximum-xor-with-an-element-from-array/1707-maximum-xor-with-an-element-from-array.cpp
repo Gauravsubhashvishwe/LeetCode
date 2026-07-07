@@ -51,7 +51,7 @@ public:
         for(int i = 0; i < n; i++){
             queries[i].push_back(i);
         }
-        sort(queries.begin(), queries.end(), [](vector<int> &a, vector<int> &b){
+        sort(queries.begin(), queries.end(), [](const vector<int> &a,const vector<int> &b){
             return a[1] < b[1];
         });
         sort(nums.begin(), nums.end());
@@ -59,21 +59,17 @@ public:
         vector<int> result(n, -1);
         int j = 0;
         int m = nums.size();
-        trie* head = new trie();
+        trie head;
 
-        for(auto queri : queries){
-            while(j < m && queri[1] >= nums[j]){
-                head->insert(nums[j]);
+        for(const auto& queri : queries){
+            while(j < m && nums[j] <= queri[1]){
+                head.insert(nums[j]);
                 j++;
             }
-            int res;
-            if(j == 0){
-                res = -1;
+
+            if(j != 0){
+                result[queri[2]] = head.max_xor(queri[0]);
             }
-            else{
-                res = head->max_xor(queri[0]);
-            }
-            result[queri[2]] = res;
         }
         return result;
     }
