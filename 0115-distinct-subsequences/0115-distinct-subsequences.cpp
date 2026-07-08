@@ -1,18 +1,13 @@
 class Solution {
     int helper(int n, int m, string &s, string &t, vector<vector<int>> &dp){
-        if(n < 0 || m < 0)return 0;
-        if(dp[n][m] == -1){
-            if(s[n] == t[m]){
-                if(m == 0){
-                    dp[n][m] = helper(n - 1, m, s, t, dp) + 1;
-                }
-                else{
-                    dp[n][m] = helper(n - 1, m, s, t, dp) + helper(n - 1, m - 1, s, t, dp); 
-                }
-            }
-            else{
-                dp[n][m] = helper(n - 1, m, s, t, dp);
-            }
+        if(m < 0)return 1;
+        if(n < 0)return 0;
+        if(dp[n][m] != -1)return dp[n][m];
+        if(s[n] == t[m]){
+            dp[n][m] = helper(n - 1, m, s, t, dp) + helper(n - 1, m - 1, s, t, dp); 
+        }
+        else{
+            dp[n][m] = helper(n - 1, m, s, t, dp);
         }
         return dp[n][m];
     }
