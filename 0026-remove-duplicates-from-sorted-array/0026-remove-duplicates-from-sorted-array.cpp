@@ -2,16 +2,13 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         int n = nums.size();
-        map<int, bool> pres;
-        for(int &num : nums){
-            pres[num] = true;
+        int j = 0;
+        for(int i = 0; i < n; i++){
+            if(nums[i] != nums[j]){
+                nums[j + 1] = nums[i];
+                j++;
+            }
         }
-        int i = 0;
-        map<int, bool>::iterator it = pres.begin();
-        for( ; it != pres.end(); it++){
-            nums[i] = it->first;
-            i++;
-        }
-        return i;
+        return ++j;
     }
 };
