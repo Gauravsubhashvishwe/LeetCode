@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0056-merge-intervals) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
