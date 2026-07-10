@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
