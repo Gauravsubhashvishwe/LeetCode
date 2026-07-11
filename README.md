@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0994-rotting-oranges) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0704-binary-search) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
