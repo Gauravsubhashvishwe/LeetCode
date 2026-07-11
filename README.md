@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0053-maximum-subarray) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0173-binary-search-tree-iterator) |
