@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
