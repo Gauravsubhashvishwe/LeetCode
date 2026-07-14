@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0796-rotate-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Design
@@ -404,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
