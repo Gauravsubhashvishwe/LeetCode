@@ -10,7 +10,6 @@ class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
         ListNode *slw(head), *fst(head);
-        if(head == nullptr)return nullptr;
         while(fst != nullptr && fst->next != nullptr){
             slw = slw->next;
             fst = fst->next->next;
