@@ -16,14 +16,12 @@ public:
             fst = fst->next->next;
             if(slw == fst){
                 fst = head;
-                break;
+                while(slw != fst){
+                    slw = slw->next;
+                    fst = fst->next;
+                }
+                return slw;
             }
-        }
-        if(fst == nullptr || fst->next == nullptr) return nullptr;
-        while(slw != nullptr){
-            if(slw == fst)return slw;
-            slw = slw->next;
-            fst = fst->next;
         }
         return nullptr;
     }
