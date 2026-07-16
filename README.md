@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0189-rotate-array) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Counting
