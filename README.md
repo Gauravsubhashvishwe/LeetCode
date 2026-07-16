@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1922-count-good-numbers) |
 ## Counting
 |  |
 | ------- |
