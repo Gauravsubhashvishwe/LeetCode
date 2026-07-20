@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
 |  |
