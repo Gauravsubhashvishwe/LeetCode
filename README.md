@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0493-reverse-pairs) |
 ## String
 |  |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0190-reverse-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Recursion
