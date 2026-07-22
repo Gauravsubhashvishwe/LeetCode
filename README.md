@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0229-majority-element-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0455-assign-cookies) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1922-count-good-numbers) |
 ## Memoization
