@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1922-count-good-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Memoization
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
 | ------- |
