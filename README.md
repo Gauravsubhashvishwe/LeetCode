@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0206-reverse-linked-list) |
