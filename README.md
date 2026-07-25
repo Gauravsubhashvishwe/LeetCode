@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1922-count-good-numbers) |
 ## Counting
