@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Memoization
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0494-target-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
 | ------- |
@@ -615,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0037-sudoku-solver) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
