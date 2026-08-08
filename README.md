@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0200-number-of-islands) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0148-sort-list) |
