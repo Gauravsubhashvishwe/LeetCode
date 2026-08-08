@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
