@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1140-stone-game-ii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
