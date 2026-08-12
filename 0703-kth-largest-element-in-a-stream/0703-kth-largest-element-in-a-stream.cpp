@@ -9,10 +9,15 @@ class KthLargest {
     int l;
 public:
     KthLargest(int k, vector<int>& nums) {
-        int n = nums.size();
         l = k;
-        for(int i = 0; i < n; i++){
-            add(nums[i]);
+        for(int val : nums) {
+            if(data.size() < l) {
+                data.push(val);
+            }
+            else if(val > data.top()) {
+                data.pop();
+                data.push(val);
+            }
         }
     }
     
