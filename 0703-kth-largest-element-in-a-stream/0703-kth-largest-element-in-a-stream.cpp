@@ -1,3 +1,9 @@
+auto init = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 'c';
+}();
+
 class KthLargest {
     priority_queue<int, vector<int>, greater<int>> data;
     int l;
