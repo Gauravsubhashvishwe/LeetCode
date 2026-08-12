@@ -11,9 +11,12 @@ public:
     }
     
     int add(int val) {
-        data.push(val);
-        if(data.size() > l){
+        if(data.size() < l){
+            data.push(val);
+        }
+        else if(data.top() < val){
             data.pop();
+            data.push(val);
         }
         return data.top();
     }
