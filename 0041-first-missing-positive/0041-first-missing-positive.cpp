@@ -10,7 +10,7 @@ public:
         }
         int i = 1;
         for(; i <= n; i++){
-            if(!visit[i])break;
+            if(!visit[i])return i;
         }
         return i;
     }
