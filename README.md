@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0056-merge-intervals) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
