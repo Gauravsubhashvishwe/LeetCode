@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1140-stone-game-ii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
 |  |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## String Matching
 |  |
 | ------- |
