@@ -1,12 +1,17 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        unordered_set<int> visit;
+        int n = nums.size();
+        vector<bool> visit(n + 1, false);
         for(int num : nums){
-            visit.insert(num);
+            if(num >= 0 && num <= n){
+                visit[num] = true;
+            }
         }
-        int curr = 1;
-        while(visit.count(curr))curr++;
-        return curr;
+        int i = 1;
+        for(; i <= n; i++){
+            if(!visit[i])break;
+        }
+        return i;
     }
 };
