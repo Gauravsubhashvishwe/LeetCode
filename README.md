@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gauravsubhashvishwe/LeetCode/tree/master/0191-number-of-1-bits) |
