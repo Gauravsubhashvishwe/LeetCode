@@ -1,13 +1,11 @@
 class Solution {
     void helper(int i, vector<int> &nums, vector<int> &curr, vector<vector<int>> &result){
-        if(i == nums.size()){
-            result.push_back(curr);
-            return;
+        result.push_back(curr);
+        for(int j = i; j < nums.size(); j++){
+            curr.push_back(nums[j]);
+            helper(j + 1, nums, curr, result);
+            curr.pop_back();
         }
-        helper(i + 1, nums, curr, result);
-        curr.push_back(nums[i]);
-        helper(i + 1, nums, curr, result);
-        curr.pop_back();
         return;
     }
 public:
