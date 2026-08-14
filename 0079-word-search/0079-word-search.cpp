@@ -30,6 +30,7 @@ public:
                 if(board[i][j] == word[0]){
                     visit[i][j] = true;
                     helper(i, j, 1, word, board, visit, found);
+                    if(found)return true;
                     visit[i][j] = false;
                 }
             }
