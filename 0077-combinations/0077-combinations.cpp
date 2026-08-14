@@ -5,10 +5,11 @@ class Solution {
             return;
         }
         if(i > n || curr.size() + (n - i + 1) < k)return;
-        helper(i + 1, n, k, curr, result);
-        curr.push_back(i);
-        helper(i + 1, n, k, curr, result);
-        curr.pop_back();
+        for(int j = i; j <= n; j++){
+            curr.push_back(j);
+            helper(j + 1, n, k, curr, result);
+            curr.pop_back();
+        }
         return;
     }
 public:
